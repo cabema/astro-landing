@@ -1,0 +1,19 @@
+{
+    "projects": [
+        {
+            "title": "Astro",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, in soluta, perferendis tempora dolor repellendus debitis nobis enim adipisci id facilis explicabo ipsam at, et atque possimus animi repudiandae odio sapiente accusamus perspiciatis eveniet! Voluptatibus, temporibus aliquid voluptatem sed pariatur ratione quaerat deleniti recusandae. Doloremque incidunt consequuntur similique nisi sequi.",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Astro",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, in soluta, perferendis tempora dolor repellendus debitis nobis enim adipisci id facilis explicabo ipsam at, et atque possimus animi repudiandae odio sapiente accusamus perspiciatis eveniet! Voluptatibus, temporibus aliquid voluptatem sed pariatur ratione quaerat deleniti recusandae. Doloremque incidunt consequuntur similique nisi sequi.",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Astro",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, in soluta, perferendis tempora dolor repellendus debitis nobis enim adipisci id facilis explicabo ipsam at, et atque possimus animi repudiandae odio sapiente accusamus perspiciatis eveniet! Voluptatibus, temporibus aliquid voluptatem sed pariatur ratione quaerat deleniti recusandae. Doloremque incidunt consequuntur similique nisi sequi.",
+            "image": "favicon.svg"
+        }
+    ]
+}
